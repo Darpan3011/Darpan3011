@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-two-coral-84.vercel.app/](https://portfolio-two-coral-84.vercel.app/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fd0Ka8JfVEm4FynmJjS2kkEE0TUrrO8R/view?usp=drive_link](https://drive.google.com/file/d/1fd0Ka8JfVEm4FynmJjS2kkEE0TUrrO8R/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
